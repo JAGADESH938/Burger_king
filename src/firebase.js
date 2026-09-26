@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "Your-API-Key",
+  apiKey: "AIzaSyCTMj7NKD3gw1KnTpW6ai2j69VHDHLa_B8",
   authDomain: "jagadeeeee-1112005.firebaseapp.com",
   projectId: "jagadeeeee-1112005",
   storageBucket: "jagadeeeee-1112005.firebasestorage.app",
