@@ -1,11 +1,11 @@
 {
     "projects": {
-        "default": "food-king-cc8b3"
+        "default": "Burger-King-cc8b3"
     },
     "targets": {
-        "food-king-cc8b3": {
+        "Burger-King-cc8b3": {
             "hosting": {
-                "foodking-narasimha": [
+                "Burgerking": [
                     "foodking-narasimha"
                 ]
             }
