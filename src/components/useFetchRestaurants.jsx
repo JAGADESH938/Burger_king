@@ -11,7 +11,7 @@ const useFetchRestaurants = (lat, lng) => {
             setLoading(true);
             try {
                 const response = await axios.get(
-                    `https://proxy-server-t6hm.onrender.com/api/restaurants?lat=${lat}&lng=${lng}&page_type=DESKTOP_WEB_LISTING`
+                    `https://render-burger-king.onrender.com/api/restaurants?lat=${lat}&lng=${lng}&page_type=DESKTOP_WEB_LISTING`
                 );
                 const data = response.data;
 
